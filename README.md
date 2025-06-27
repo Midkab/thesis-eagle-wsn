@@ -56,7 +56,7 @@ The complete code used to implement and compare both protocols is available in t
 ## 📊 Sample Results
 
 ### 🔋 Energy Efficiency Comparison
-![Energy Plot](results/energy_plot.png)
+![Energy Plot](Energy eifficiency per packet.png)
 
 ### 📈 CDF of Node Energy Fairness
 ![CDF Plot](results/cdf_plot.png)
