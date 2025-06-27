@@ -42,6 +42,44 @@ The complete code used to implement and compare both protocols is available in t
 
 ---
 
-## 📂 Repository Structure
+## 🛠️ Technologies Used
+
+- Python
+- Google Colab
+- NumPy
+- Matplotlib
+- Genetic Algorithm (GA)
+- Q-Learning (Reinforcement Learning)
+
+---
+
+## 📊 Sample Results
+
+### 🔋 Energy Efficiency Comparison
+![Energy Plot](results/energy_plot.png)
+
+### 📈 CDF of Node Energy Fairness
+![CDF Plot](results/cdf_plot.png)
+
+### 📋 Protocol Comparison Table
+![Comparison Table](results/comparison_table.png)
+
+---
+
+## 👨‍🎓 Authors
+
+| Name           | University                          | Email                         | LinkedIn | Kaggle |
+|----------------|-------------------------------------|-------------------------------|----------|--------|
+| Ayoub Louaidi  | Université Akli Mohand Oulhadj      | ayoublouaidi19@gmail.com      | [LinkedIn](https://www.linkedin.com/in/louaidiayoub-686642249/) | [Kaggle](https://www.kaggle.com/ayoublouaidi) |
+| Ahmed Cherik   | Université Akli Mohand Oulhadj      | ahmedcherik999@gmail.com      | [LinkedIn](https://www.linkedin.com/in/ahmed-cherik-12ab19252) | [Kaggle](https://www.kaggle.com/ahmedcherik) |
+
+---
+
+## ⭐ Acknowledgments
+
+This work was supervised by **Mr. Abbas Akli** and conducted as part of our Master's program in Artificial Intelligence.
+
+
+
 
 
