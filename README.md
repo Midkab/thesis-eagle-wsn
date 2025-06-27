@@ -51,18 +51,6 @@ The complete code used to implement and compare both protocols is available in t
 - Genetic Algorithm (GA)
 - Q-Learning (Reinforcement Learning)
 
----
-
-## 📊 Sample Results
-
-### 🔋 Energy Efficiency Comparison
-![Energy Plot](Energy eifficiency per packet.png)
-
-### 📈 CDF of Node Energy Fairness
-![CDF Plot](results/cdf_plot.png)
-
-### 📋 Protocol Comparison Table
-![Comparison Table](results/comparison_table.png)
 
 ---
 
